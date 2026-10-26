@@ -1,6 +1,6 @@
 {
-  "files": 8,
-  "bytes": 5887,
+  "files": 11,
+  "bytes": 15505,
   "entries": [
     {
       "path": ".gitignore",
@@ -13,14 +13,29 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 3315,
+      "sha256": "71de86be24c474497a27b5e406f76b3621254eae936546b604244a60c0bd3e19"
+    },
+    {
       "path": "README.md",
-      "bytes": 939,
-      "sha256": "06ac661ead4e7b8cb4f777d92e7e9c8984c311fcaa0faf47416fe90180589e36"
+      "bytes": 3068,
+      "sha256": "e9386878c80ee79a3d2d727345691c3146335dd9da83c3b21450e7621ebcec1d"
     },
     {
       "path": "skill/kol-feishu-plan-builder/agents/openai.yaml",
       "bytes": 237,
       "sha256": "f07803f8e4b1122e6cf5b580dea40769b267bcf8cbfcced9b2e2f9b60a29fe92"
+    },
+    {
+      "path": "skill/kol-feishu-plan-builder/README.en.md",
+      "bytes": 2159,
+      "sha256": "e164ed74c53f094d226e5d115ae54cd84fc67ed3682a6808c6364ee5ccdfab3a"
+    },
+    {
+      "path": "skill/kol-feishu-plan-builder/README.md",
+      "bytes": 2015,
+      "sha256": "84671d03e1c65abc4afcc134cf9afd2177cc53132a93cd6f27391b24e0e570f4"
     },
     {
       "path": "skill/kol-feishu-plan-builder/references/kol_feishu_template.md",
