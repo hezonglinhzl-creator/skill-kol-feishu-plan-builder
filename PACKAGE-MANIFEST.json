@@ -1,0 +1,46 @@
+{
+  "files": 8,
+  "bytes": 5887,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 939,
+      "sha256": "06ac661ead4e7b8cb4f777d92e7e9c8984c311fcaa0faf47416fe90180589e36"
+    },
+    {
+      "path": "skill/kol-feishu-plan-builder/agents/openai.yaml",
+      "bytes": 237,
+      "sha256": "f07803f8e4b1122e6cf5b580dea40769b267bcf8cbfcced9b2e2f9b60a29fe92"
+    },
+    {
+      "path": "skill/kol-feishu-plan-builder/references/kol_feishu_template.md",
+      "bytes": 2898,
+      "sha256": "1183a1f35c5a33e96245b2689197e916e1bf90de4dc7b7757194afab50407e39"
+    },
+    {
+      "path": "skill/kol-feishu-plan-builder/SKILL.md",
+      "bytes": 440,
+      "sha256": "892a4b546e87af943b923c1236740ae8c96eca00c0dbb43e72d8a4a250efd775"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
